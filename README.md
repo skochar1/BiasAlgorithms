@@ -10,3 +10,5 @@ Individual Fairness:
 
 Notions of Individual Fairness that diverge from the paradigm of [14]: 
 1. A Center in My Neighborhood: In certain applications, minimizing a global objective on the assignment distances, e.g., the k-means objective, does not suffice in order to capture the special needs of individual points. For instance, some points may require an assignment distance much smaller than what other points can tolerate. Hence, it is reasonable to seek solutions where we do not only minimize the global objective, but also try to satisfy the individual distance needs of every point. This model was introduced in [22], and increasingly better results were given in a subsequent series of papers [26, 29, 32].
+
+Resources: https://www.fairclustering.com/
