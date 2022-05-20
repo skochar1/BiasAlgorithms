@@ -1,1 +1,1 @@
-# BiasAlgorithms
+# Bias Algorithms
